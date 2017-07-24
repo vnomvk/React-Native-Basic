@@ -1,9 +1,7 @@
 # React-Native-Basic
 Basic react native app for android 
 
-   # Ref: 
+   ## Ref: 
  
-   **Below link for project setup 
-        
-        https://facebook.github.io/react-native/docs/getting-started.html
+   [Link to Setup project](https://facebook.github.io/react-native/docs/getting-started.html)
 
